@@ -1,4 +1,4 @@
-# agdpmod=pikera alternative (AppleGraphicsDevicePolicy patch)
+# agdpmod=pikera without whatevergreen.kext
 
 **OpenCore** kernel patch that replicates the functionality of the boot argument `agdpmod=pikera` — used to disable `board-id` checks within **AppleGraphicsDevicePolicy**
 
